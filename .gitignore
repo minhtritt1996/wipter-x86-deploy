@@ -1,0 +1,8 @@
+# Runtime data & logs
+data/
+*.log
+*.tmp
+.DS_Store
+
+# Node modules cache
+.cache/

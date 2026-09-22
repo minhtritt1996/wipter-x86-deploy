@@ -1,0 +1,10 @@
+# CÁC ĐỊNH DẠNG PROXY ĐƯỢC HỖ TRỢ:
+# 1. URL đầy đủ có user:pass
+# http://username:password@proxy_ip:port
+# socks5://username:password@proxy_ip:port
+
+# 2. Định dạng ip:port:user:pass
+# 1.2.3.4:8080:myuser:mypassword
+
+# 3. Định dạng ip:port (không có auth)
+# 1.2.3.4:8080

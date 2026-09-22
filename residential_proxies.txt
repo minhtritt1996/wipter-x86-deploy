@@ -1,0 +1,7 @@
+# Danh sách các proxy Residential đã kiểm tra xác thực trực tiếp với Wipter Backend:
+http://admin:0989499395@tritm.duckdns.org:11013
+http://admin:0989499395@tritm.duckdns.org:11009
+http://admin:0989499395@tritm.duckdns.org:12005
+http://admin:0989499395@tritm.duckdns.org:13257
+http://admin:0989499395@tritm.duckdns.org:13182
+http://admin:0989499395@tritm.duckdns.org:13042
